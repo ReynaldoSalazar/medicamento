@@ -1,0 +1,14 @@
+{
+"Medicines":[
+  {"id":"0","name":"AMPICILINA CAPSULAS 500 MG:", "description":"Para enfermedades infecciosas,parasitarias y bactericida.", "contradicciones":"Alergicos a penicilinas y Mononucleosis infecciosa."},
+  {"id":"1","name":"BISOLVON SOLUCION ADULTO:", "description":"Mucolítico expectorante en bronquitis y traqueobronquitis agudas,crónicas y asmatiformes.", "contradicciones":"Hipersensibilidad."},
+  {"id":"2","name":"CARIDEN TABLETA 30 MG:", "description":"Acción antiinflamatoria pero con reducida actividad sobre el metabolismo óseo e hidrocarbonado.", "contradicciones":"Hipersensibilidad, úlcera péptica, tuberculosis activa, herpes simplex ocular, herpes zoster."},
+  {"id":"3","name":"OMEPRAZOL CÁPSULAS 20 MG:", "description":"Inhibe la secreción de ácido en el estomago.", "contradicciones": "Hipersensibilidad a omeprazol, benzimidazoles. Concomitancia con nelfinavir."},  
+  {"id":"4","name":"ZADITEN JARABE:", "description":"Antiasmático no broncodilatador con actividad antianafilactica y bloqueante de receptores H1.", "contradicciones": "Hipersensibilidad."},
+  {"id":"5","name":"AMOXICILINA CÁPSULAS 500 MG:", "description":"Para Infecciones causadas por cepas sensibles como infecciones de garganta, nariz y oídos.", "contradicciones": "Hipersensibilidad a lactámicos,antecedentes de una reacción de hipersensibilidad inmediata grave."},
+  {"id":"6","name":"ASPIRINA TABLETA 500 MG:", "description":"Sintomático del dolor de cabeza, dental, menstrual.", "contradicciones": "Molestias gástricas de repetición, antecedentes de hemorragia o perforación gástrica."},
+  {"id":"7","name":"BROXOL TABLETAS 30 MG:", "description":"Aumenta la secreción de vías respiratorias, potencia la producción de surfactante pulmonar.", "contradicciones": "Hipersensibilidad,además para el jarabe, sol, oral y sol. inyectable en niños."},
+  {"id":"8","name":"LAMISIL CREMA 1 G:", "description":"Para infecciones fúngicas por dermatofitos,pitiriasis versicolor,además en crema: infecciones cutáneas por levaduras.", "contradicciones": "Hipersensibilidad a terbinafina."},
+  {"id":"9","name":"PARACETAMOL TABLETAS 500 MG:", "description":"Analgésico y antipirético,inhibe la síntesis de prostaglandinas en el SNC y bloquea la generación del impulso doloroso a nivel periférico.", "contradicciones": "Insuficiencia hepatocelular grave, hepatitis vírica."}
+  ]
+}
